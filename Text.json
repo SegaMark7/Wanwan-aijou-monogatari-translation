@@ -1,5 +1,6 @@
-{
-    "frame 1": {
+[
+    {
+        "frameNum": 0,
         "name": "Title",
         "screen":"title.png",
         "text":[
@@ -8,15 +9,16 @@
             }
         ]
     },
-    "frame 2": {
+    {
+        "frameNum": 1,
         "name": "Menu",
         "screen":"menu.png",
         "text":[
             {
-                "Jap": "こんにちは! 「わんわん 愛情物語」 の世界にようこそ!",
-                "Рус": "Привет! добро пожаловать в мир “Щенячья история любви”",
-                "Eng": "Hello! Welcome to the world of \"Puppy Love Story!\""
+                "ja": "こんにちは! 「わんわん 愛情物語」 の世界にようこそ!",
+                "ru": "Привет! добро пожаловать в мир “Щенячья история любви”",
+                "en": "Hello! Welcome to the world of \"Puppy Love Story!\""
             }
         ]
     }
-}
+]
