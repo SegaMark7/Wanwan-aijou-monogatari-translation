@@ -4,25 +4,25 @@
 ### Структура
 Для более удобного парсинга перевода игры, перевод записан в формате json.
 Структура json
-- frame n
+- "frameNum": n,
 n - это номер кадра, кадром считается одно изображение.
-- name
+- "name"
 название кадра
-- text
+- "text"
 массив объектов строк, которые содержат текст на различных языках
-в формате: "две буквы кода языка из (ISO 639 language codes)[https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes]" : "текст перевода"
+в формате: "две буквы кода языка из [ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)" : "текст перевода"
 
 
 # ENG
 ### Description
-In this repository you can find files that will help translate the Wanwan aijou monogatari game that came out on casio loopy to other languages
+In this repository you can find files that will help you translate the Wanwan aijou monogatari game that came out on casio loopy to other languages
 ### Structure
-For a more convenient parsing of the translation of the game, the translation is written in the json format.
+For easier parsing of the translation of the game, the translation is written in json format.
 Json structure
-- frame n
+- "frameNum": n,
 n - is the number of the frame, a frame is one of the images.
-- name
+- "name"
 name of the frame
-- text
-array of objects of strings that contain text on various languages
-in the format: "three letters of the language" : "translation text"
+- "text"
+array of objects that contain text on different languages
+in the format: "two letters language code from [ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)" : "translation text"
