@@ -5,7 +5,7 @@
         "screen":"title.png",
         "text":[
             {
-
+                
             }
         ]
     },
@@ -18,6 +18,16 @@
                 "ja": "こんにちは! 「わんわん 愛情物語」 の世界にようこそ!",
                 "ru": "Привет! добро пожаловать в мир “Щенячья история любви”",
                 "en": "Hello! Welcome to the world of \"Puppy Love Story!\""
+            },
+            {
+                "ja": "",
+                "ru": "Сделай выбор из меню внизу",
+                "en": "Choose from the below menu:"
+            },
+            {
+                "ja": "十字キーの上下で選んで、 Aボタンを押すんじゃ。\n-初めからあそぶ \n-続きからあそぶ \n-日記をうつす \n-日記をけす",
+                "ru": "Сделай выбор, с помощью клавиш вверх ,вниз на крестовине и нажми кнопку A чтобы принять. \n- Играть сначала \n- Продолжить играть \n- Сохранить дневник \n- Удалить дневник",
+                "en": "Select it with the up and down button on the controller and press the A button. \n- Play from the beginning \n- Continue playing \n- Copy your diary (save) \n- Delete your diary (save)"
             }
         ]
     }
